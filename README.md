@@ -1,0 +1,1 @@
+Personal exercises for the "M101JS: MongoDB for Node.js Developers" course
